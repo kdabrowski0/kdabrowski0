@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Krzysztof Dąbrowski 
+### I am a second-year Computer Science student at the University of Gdańsk.
 
-<!--
-**kdabrowski0/kdabrowski0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 **My Skill Set:**
+  - Python
+  - JavaScript/React
+  - HTML/CSS/SASS
+  - MERN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **I’m currently learning:**
+  - Java
+  - Go
+  - Scala
+- 📫 **How to reach me:**
+- https://www.linkedin.com/in/krzysztof-d%C4%85browski-046833269/
+- https://www.facebook.com/krzys.dabrowski.9/
