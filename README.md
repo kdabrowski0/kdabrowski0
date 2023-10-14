@@ -6,7 +6,9 @@
   - Python
   - JavaScript/React
   - HTML/CSS/SASS
-  - MERN
+  - MongoDB
+  - MySQL
+  - Express.js
 
 - 🌱 **I’m currently learning:**
   - Java
