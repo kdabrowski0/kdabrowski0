@@ -5,7 +5,7 @@
 - 🔭 **My Skill Set:**
   - Python
   - JavaScript/React
-  - HTML/CSS/SASS
+  - HTML/CSS/SCSS
   - MongoDB
   - MySQL
   - Express.js
