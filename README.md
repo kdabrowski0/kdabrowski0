@@ -7,7 +7,7 @@
   - JavaScript/React
   - HTML/CSS/SCSS
   - MongoDB
-  - MySQL
+  - MySQL,PostgreSQL
   - Express.js
 
 - 🌱 **I’m currently learning:**
