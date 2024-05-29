@@ -13,7 +13,7 @@
 
 - 🌱 **I’m currently learning:**
   - Typescript
-  -.NET 8
+  - .NET 8
   - C#
 - 📫 **How to reach me:**
 - https://www.linkedin.com/in/krzysztof-d%C4%85browski-046833269/
