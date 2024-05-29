@@ -9,12 +9,12 @@
   - MongoDB
   - MySQL,PostgreSQL
   - Express.js
+  - Java
 
 - 🌱 **I’m currently learning:**
-  - Java
-  - Spring Boot
-  - Angular
   - Typescript
+  -.NET 8
+  - C#
 - 📫 **How to reach me:**
 - https://www.linkedin.com/in/krzysztof-d%C4%85browski-046833269/
 - https://www.facebook.com/krzys.dabrowski.9/
