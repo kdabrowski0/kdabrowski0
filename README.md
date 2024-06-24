@@ -10,6 +10,7 @@
   - MySQL,PostgreSQL
   - Express.js
   - Java
+  - Angular
 
 - 🌱 **I’m currently learning:**
   - Typescript
